@@ -43,9 +43,9 @@ The analysis reveals several patterns: BMI is highest in the 41-60 age group (ao
 3. Open project.ipynb in Jupyter Notebook and run all cells
 
 ## Technologies
-![Python](https://img.shields.io/badge/Python-3.10-lightblue)
-![pandas](https://img.shields.io/badge/pandas-2.3.2-lightpink)
-![seaborn](https://img.shields.io/badge/seaborn-0.13.2-lightgreen)
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![pandas](https://img.shields.io/badge/pandas-2.3.2-pink)
+![seaborn](https://img.shields.io/badge/seaborn-0.13.2-red)
 ![matplotlib](https://img.shields.io/badge/matplotlib-3.10.7-purple)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
 
