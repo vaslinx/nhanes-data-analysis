@@ -36,5 +36,18 @@ The analysis reveals several patterns: BMI is highest in the 41-60 age group (ao
 * Add statistical testing (t-test) to verify differences between groups
 * Build a regression model to predict BMI
 
+## How to Run
+1. Clone the repository
+2. Install dependencies:
+   pip install pandas seaborn matplotlib
+3. Open project.ipynb in Jupyter Notebook and run all cells
+
+## Technologies
+![Python](https://img.shields.io/badge/Python-3.10-lightblue)
+![pandas](https://img.shields.io/badge/pandas-2.3.2-lightpink)
+![seaborn](https://img.shields.io/badge/seaborn-0.13.2-lightgreen)
+![matplotlib](https://img.shields.io/badge/matplotlib-3.10.7-lightpurple)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-lightorange)
+
 ## Author
 [vaslinx] · [GitHub]( https://github.com/vaslinx)
