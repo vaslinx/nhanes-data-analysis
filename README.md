@@ -12,7 +12,8 @@ License: Public Domain
 * analysis.py
 * project.ipynb
 * project_clean.ipynb
-* project_clean.pdf
+* project.csv
+* project_clean.csv
 
 ## Project Goals
 * Data cleaning
